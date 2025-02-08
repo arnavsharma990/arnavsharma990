@@ -14,9 +14,8 @@
 - Fun and impactful side projects that involve **AI tools** or **game development**.
 
 📫 How to Reach Me:
-- **Email**: arnavsharma990@example.com  
-- **LinkedIn**: [linkedin.com/in/arnavsharma990](https://linkedin.com/in/arnavsharma990)  
-- **Portfolio**: [arnavsharma.dev](https://arnavsharma.dev)
+- **Email**: 2006arnavsharma@gmail.com  
+- **LinkedIn**: [linkedin.com/in/arnavsharma990](https://linkedin.com/in/arnavsharma990) 
 
 😄 Pronouns:
 - He/Him
