@@ -17,13 +17,5 @@
 - **Email**: 2006arnavsharma@gmail.com  
 - **LinkedIn**: [linkedin.com/in/arnavsharma990](https://linkedin.com/in/arnavsharma990) 
 
-😄 Pronouns:
-- He/Him
-
-⚡ Fun Fact:
-- I’m also a YouTuber with **4.5k subscribers**, and I’m currently switching my niche to create funny and entertaining videos powered by AI!
-
----
-
 ✨ Let’s connect and build something amazing together!
 
