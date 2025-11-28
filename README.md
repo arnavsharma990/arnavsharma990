@@ -48,10 +48,9 @@ Blockchain investment platform built on Ethereum using bolt.new.
 
 ## 📊 GitHub Stats (Dark Mode)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arnavsharma990&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavsharma990&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
-</p>
+![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavsharma990&show_icons=true&hide_border=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavsharma990&layout=compact&hide_border=true&theme=default)
 
 ---
 
