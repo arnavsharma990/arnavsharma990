@@ -1,8 +1,4 @@
 <!-- Banner (Replace with your custom banner when ready) -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x250/0d0d0d/ffffff?text=Arnav+Sharma+|+Frontend+Developer+%26+AI+Enthusiast" />
-</p>
-
 <h1 align="center">Hi, I'm Arnav 👋</h1>
 <h3 align="center">Frontend Developer | Scala | AI/ML Enthusiast | B.Tech CSE (IPU)</h3>
 
