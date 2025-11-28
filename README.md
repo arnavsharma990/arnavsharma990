@@ -38,7 +38,7 @@ Hospital search + doctor filtering + room details.
 Created with my team **The Minfulls**.
 
 ### 🔹 **EthucVest**
-Blockchain investment platform built on Ethereum using bolt.new.
+Blockchain investment platform built on Ethereum 
 
 ---
 
