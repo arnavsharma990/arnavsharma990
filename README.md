@@ -7,13 +7,20 @@ Currently exploring AI-driven solutions, deep-sea eDNA analysis (Bio-Line), and 
 ---
 
 ## 🔧 Technologies & Tools
+<!-- Programming Languages -->
+![Scala](https://img.shields.io/badge/Scala-red?style=for-the-badge&logo=scala&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
-**Scala Ecosystem:** Scala, Scala.js, Scala CLI, sbt  
-**Backend:** Node.js (basic), Express  
-**AI / ML:** Python, Transformers, DNABERT, UMAP, HDBSCAN  
-**Databases:** MongoDB, Firebase  
-**Tools:** Git, GitHub, VS Code, Docker, Linux  
+<!-- Frameworks -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Scala.js](https://img.shields.io/badge/Scala.js-DC322F?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+<!-- Tools -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
