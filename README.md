@@ -1,6 +1,6 @@
 <!-- Banner (Replace with your custom banner when ready) -->
 <h1 align="center">Hi, I'm Arnav 👋</h1>
-<h3 align="center">Frontend Developer | Scala | AI/ML Enthusiast | B.Tech CSE (IPU)</h3>
+<h3 align="center">Frontend Developer | Scala | AI/ML Enthusiast | B.Tech CSE</h3>
 
 ---
 
