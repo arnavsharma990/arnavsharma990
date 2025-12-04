@@ -22,33 +22,6 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-orange?style=for-the-badge&logo=linux&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 **Bio-Line — AI-driven eDNA Analysis Pipeline**
-Deep-sea eDNA classification using DNABERT, UMAP clustering, novelty detection, and automated taxonomy annotation.  
-Built for CMLRE + Smart India Hackathon 2025.
-
-### 🔹 **Forge — Men’s Premium Jewelry Website**
-Dark-themed, aesthetic, and premium frontend built with React + Tailwind.
-
-### 🔹 **Hospi Links**
-Hospital search + doctor filtering + room details.  
-Created with my team **The Minfulls**.
-
-### 🔹 **EthucVest**
-Blockchain investment platform built on Ethereum 
-
----
-
-## 📊 GitHub Stats 
-
-![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavsharma990&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavsharma990&layout=compact&hide_border=true&theme=default)
-
----
 
 ## 🌱 Currently Learning
 
